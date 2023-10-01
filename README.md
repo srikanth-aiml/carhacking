@@ -32,3 +32,4 @@ Repository for carhacking experiments. Overall this project loosely follows cook
 * Put the data files under data. data will not be saved to git. .gitignore has this setting
 
 ## How to execute
+![Execution](https://raw.githubusercontent.com/srikanth-aiml/carhacking/main/docs/images/vscode_setup.png)
