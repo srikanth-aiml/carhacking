@@ -28,7 +28,7 @@ mittens==0.2
 
 # other ml algorithm libraries
 imbalanced-learn==0.10.1
-hdbscan==0.8.29
+#hdbscan==0.8.29
 xgboost==1.7.2
 pyod==1.0.5
 
